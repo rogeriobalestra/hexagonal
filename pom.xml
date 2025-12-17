@@ -15,7 +15,7 @@
 	</parent>
 
 	<!-- Project coordinates -->
-	<groupId>com.hexagonal</groupId>
+	<groupId>com.br.hexagonal</groupId>
 	<artifactId>hexagonal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
